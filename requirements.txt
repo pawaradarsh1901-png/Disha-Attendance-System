@@ -3,4 +3,4 @@ qrcode==7.4.2
 pillow==10.3.0
 gunicorn==22.0.0
 waitress==3.0.0
-twilio==9.0.4
+
